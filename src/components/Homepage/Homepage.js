@@ -23,18 +23,18 @@ function Home() {
               window.open("https://github.com/MichaelSchetzer");
             }}
               className='socailmediabtn'><AiFillGithub className='icon' /></button>
-            {/* <button onClick={() => {
-              window.open("https://www.linkedin.com/in/rahulvijay81/");
+            {<button onClick={() => {
+              window.open("https://www.linkedin.com/in/michael-schetzer/");
             }}
-              className='socailmediabtn'><FaLinkedinIn className='icon' /></button>
-            <button onClick={() => {
-              window.open("https://twitter.com/rahulvijay8156");
-            }}
-              className='socailmediabtn'><AiOutlineTwitter className='icon' /></button>
-            <button onClick={() => {
-              window.open("https://instagram.com/rahulvijay81");
-            }}
-              className='socailmediabtn'><AiFillInstagram className='icon' /></button> */}
+              className='socailmediabtn'><FaLinkedinIn className='icon' /></button>}
+            {/* // <button onClick={() => {
+            //   window.open("https://twitter.com/rahulvijay8156");
+            // }}
+            //   className='socailmediabtn'><AiOutlineTwitter className='icon' /></button>
+            // <button onClick={() => {
+            //   window.open("https://instagram.com/rahulvijay81");
+            // }}
+            //   className='socailmediabtn'><AiFillInstagram className='icon' /></button>} */}
           </Col>
 
           <Col md={5}>
