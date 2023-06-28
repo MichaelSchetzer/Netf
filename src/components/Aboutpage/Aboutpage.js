@@ -16,6 +16,7 @@ function Aboutpage() {
                                 <Row>
                                     <h3>Skills</h3>
                                     <Col md={7}>
+                                        <li>Python</li>
                                         <li>HTML5/CSS3</li>
                                         <li>JavaScript</li>
                                         <li>jQuery</li>
