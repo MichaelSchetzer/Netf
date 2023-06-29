@@ -21,6 +21,7 @@ function Aboutpage() {
                                         <li>JavaScript</li>
                                         <li>jQuery</li>
                                         <li>Bootsrap 5</li>
+                                        <li>Docker</li>
                                     </Col>
                                     <Col md={5}>
                                         <li>React Js</li>
